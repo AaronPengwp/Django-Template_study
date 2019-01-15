@@ -96,10 +96,11 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="27" />
-    <option name="width" value="1366" />
-    <option name="height" value="741" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="320" />
+    <option name="y" value="40" />
+    <option name="width" value="1221" />
+    <option name="height" value="662" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -198,17 +199,17 @@
       <option name="presentableId" value="Default" />
       <updated>1547475579987</updated>
       <workItem from="1547475598784" duration="6556000" />
-      <workItem from="1547550568610" duration="2000000" />
+      <workItem from="1547550568610" duration="2815000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8556000" />
+    <option name="totallyTimeSpent" value="9371000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="25" width="1366" height="743" extended-state="6" />
+    <frame x="320" y="40" width="1221" height="662" extended-state="1" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25417298" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2855925" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
