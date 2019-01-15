@@ -12,7 +12,7 @@ def query(request):
 
     lists = ["xianming", "lili", "xinhun"]
     lists = []
-    dits  ={'name':'Aaron', 'age':'18'}
+    dits  ={'name':'Aaron', 'age': 18}
 
     c = Animal('小熊', '20')
 
